@@ -3,6 +3,10 @@ html, body {
 	font-family: 'Amiri', serif;
 }
 
+p {
+	text-indent: 30px;
+}
+
 #main{
 	margin: 30px, auto;
 	min-width: 550px;
