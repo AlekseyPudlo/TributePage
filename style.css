@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 html, body {
 	font-family: 'Amiri', serif;
-	background: #aed6ff;
 }
 
 #main{
 	margin: 30px, auto;
 	min-width: 550px;
 	padding: 15px;
-	border-radius: 15px;
-	background-color:darkslategray;
+	border-radius: 5px;
+	background-color:#f5deb3;
 }
 
 #title {
@@ -19,7 +18,7 @@ html, body {
 
 
 #img-div {
-	background-color: cadetblue;
+	background-color: #ffffff;
 	padding: 10px;
 }
 
